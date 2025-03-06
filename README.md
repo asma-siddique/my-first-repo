@@ -1,4 +1,2 @@
-# my-first-repo
-I am changing readme file
 # My Project
-This is the main branch version of the README file.
+This is the resolved version of the README file, combining changes from both branches.
