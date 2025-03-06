@@ -1,2 +1,3 @@
 # my-first-repo
-I am changing readme file
+# My Project
+This is the conflict-branch version of the README file.
